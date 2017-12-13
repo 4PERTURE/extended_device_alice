@@ -1,0 +1,10 @@
+[
+{
+    "repository": "android_vendor_huawei_alice",
+    "target_path": "vendor/huawei/alice"
+  },
+{
+    "repository": "android_kernel_huawei_alice",
+    "target_path": "kernel/huawei/alice"
+  }
+]
