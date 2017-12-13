@@ -159,7 +159,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libtinyxml
 
-# Camera2
+# Camera
 PRODUCT_PACKAGES += \
     Camera2
 
