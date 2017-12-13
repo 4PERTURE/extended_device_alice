@@ -159,9 +159,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libtinyxml
 
-# Snap
+# Camera2
 PRODUCT_PACKAGES += \
-    Snap
+    Camera2
 
 PRODUCT_PROPERTY_OVERRIDES += \
     media.stagefright.legacyencoder=true \
