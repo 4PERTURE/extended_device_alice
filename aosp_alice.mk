@@ -15,7 +15,7 @@
 $(call inherit-product, device/huawei/alice/full_alice.mk)
 
 # Inherit some common AOSP stuff.
-$(call inherit-product, vendor/aosp/common)
+$(call inherit-product, vendor/aosp/common.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
