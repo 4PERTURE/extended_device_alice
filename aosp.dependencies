@@ -1,10 +1,20 @@
 [
-{
-    "repository": "android_vendor_huawei_alice",
+  {
+    "remote": "github",
+    "repository":  "dotOS-Devices/android_vendor_huawei_alice",
     "target_path": "vendor/huawei/alice"
+    "branch": "dot-n"
   },
-{
-    "repository": "android_kernel_huawei_alice",
+  {
+    "remote": "github",
+    "repository": "dotOS-Devices/android_kernel_huawei_alice",
     "target_path": "kernel/huawei/alice"
+    "branch": "dot-n"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
   }
 ]
